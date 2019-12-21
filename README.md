@@ -24,6 +24,8 @@ ls.path = datapath; // Here we successfully retrived the whole data
 JList<string> ls = new JList<string>("testlist");// this name is presistent as long as the data folder is in the same path as the app.
 ls.Add("Hie");
 ls.Add("How are you?");
+JList<string> ls2 = new JList<string>("testlist");// this won't create another data file but will use the data file that's already created which means it retrived the data again.
+
 ```
 #### Init from oridinary List<>
 ```c#
@@ -35,5 +37,5 @@ JList<string> jlist = new JList<string>(list);// This data is automatically save
 //You can save the path of the data as the first example
 
 ```
-### Re-Initialize
-Don't be worried you can re-intialize as many time as you want by just repassing the name of the List you made to the Initializer.
+### Liscence
+This project is under the GPLv3
