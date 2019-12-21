@@ -1,0 +1,8 @@
+c:\users\rami mohammed\documents\visual studio 2012\Projects\test eggect\test eggect\obj\Debug\test eggect.csprojResolveAssemblyReference.cache
+c:\users\rami mohammed\documents\visual studio 2012\Projects\test eggect\test eggect\obj\Debug\test eggect.csproj.GenerateResource.Cache
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\bin\Debug\JList.dll.config
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\bin\Debug\JList.dll
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\bin\Debug\JList.pdb
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\obj\Debug\JList.dll
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\obj\Debug\JList.pdb
+C:\Users\Rami Mohammed\Documents\Visual Studio 2012\Projects\test eggect\test eggect\obj\Debug\JList.Properties.Resources.resources
