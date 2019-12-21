@@ -1,7 +1,7 @@
 # JList
-### Create  List objects that work inside the file system and say bye to high memory usage.
-### All the data is stored in a folder.
-### https://www.nuget.org/packages/jfolderlist2/
+#### Create  List objects that work inside the file system and say bye to high memory usage.
+#### All the data is stored in a folder.
+#### https://www.nuget.org/packages/jfolderlist2/
 ## Quick Start
 ### Install..
 #### Install-Package jfolderlist2 -Version 1.0.0
