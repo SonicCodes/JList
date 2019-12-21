@@ -15,7 +15,7 @@ ls.Add("How are you?");
 
 var datapath = ls.path;//You should store this, it is needed for reinitialization
 //Re-Init Example
-JList<string> ls = new JList<string>("retrive");// you should always use retrice to retrive data from a path
+JList<string> ls = new JList<string>("retrive");// you should always use retrive to retrive data from a path
 ls.path = datapath; // Here we successfully retrived the whole data
 ```
 #### Use custom dir
