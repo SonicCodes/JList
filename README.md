@@ -44,7 +44,7 @@ JList<string> ls2 = new JList<string>("testlist");// this won't create another d
 #### Init from oridinary List<>
 ```c#
 //Initialize a List
-List<string> list = List<string>();// this is a simple list.
+List<string> list = new List<string>();// this is a simple list.
 list.Add("Hie");
 list.Add("How are you?");
 
